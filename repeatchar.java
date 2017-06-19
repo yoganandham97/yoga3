@@ -21,7 +21,7 @@ class repeatchar
                        count++;
                    }
                    //System.out.println();
-                  // System.out.println(s2);
+                   System.out.println(s2[i]);
                }
            }
        }
